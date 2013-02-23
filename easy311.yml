@@ -1,0 +1,4 @@
+# This is a sample configuration file for Easy311
+url: __URL__
+apikey: __API_KEY__
+jurisdiction_id: _ID__
