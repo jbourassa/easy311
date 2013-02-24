@@ -29,6 +29,8 @@ for Rails that makes it easy to configure and load Open311's services.
 No documentation official documentation has been written (yet) since
 this library has originally been built during a Hackaton (see credits).
 
+You can see a sample usage here: https://github.com/ironweb/rouges
+
 ## Contributing
 
 No contribution is too small: fork away and send pull requests!
